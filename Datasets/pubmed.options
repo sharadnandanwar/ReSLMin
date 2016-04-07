@@ -1,0 +1,4 @@
+log2lamda	-5
+wPos	1
+maxIter	2000
+batchSize	19717
