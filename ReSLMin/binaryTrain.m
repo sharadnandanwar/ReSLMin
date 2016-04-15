@@ -22,7 +22,7 @@ Train = find(abs(Y)>0);
 NTr = length(Train);
 
 if(size(Y,1)~=N)
-    disp('Error: Number of elements in X and Y must same\nSee pegasos usage for further help');
+    disp('Error: Number of elements in X and Y must same');
     return;
 end
 
