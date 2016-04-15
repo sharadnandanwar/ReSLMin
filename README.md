@@ -2,7 +2,7 @@
 
 <h5>Usage:</h5>
 <tt>[hammingScore microF1 macroF1] = ReSLMin_Run ( dataFile, optionsFile, m, n)</tt><br/>
-Run and Evaluate performance of SNBC.
+Run and Evaluate performance of ReSLMin.
 
 <h6>INPUT:</h6>
 <tt> &nbsp; &nbsp; &nbsp;dataFile &nbsp; &nbsp; = &nbsp;url of .mat file</tt><br/>
